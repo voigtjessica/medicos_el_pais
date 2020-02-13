@@ -1,0 +1,310 @@
+Jordão, AC
+Anadia, AL
+Flexeiras, AL
+Ibateguara, AL
+Jaramataia, AL
+Jequiá da Praia, AL
+Lagoa da Canoa, AL
+Major Isidoro, AL
+Mar Vermelho, AL
+Murici, AL
+Novo Lino, AL
+Olho d'Água Grande, AL
+Passo de Camaragibe, AL
+Paulo Jacinto, AL
+Quebrangulo, AL
+Roteiro, AL
+Santana do Mundaú, AL
+São Luís do Quitunde, AL
+Senador Rui Palmeira, AL
+Traipu, AL
+Uarini, AM
+Barra do Mendes, BA
+Bom Jesus da Serra, BA
+Caém, BA
+Canápolis, BA
+Candiba, BA
+Dom Macedo Costa, BA
+Ibicaraí, BA
+Ibipitanga, BA
+Ibiquera, BA
+Iguaí, BA
+Jaborandi, BA
+Lajedinho, BA
+Maetinga, BA
+Maraú, BA
+Marcionílio Souza, BA
+Presidente Dutra, BA
+Serra Preta, BA
+Souto Soares, BA
+Utinga, BA
+Aiuaba, CE
+Antonina do Norte, CE
+Araripe, CE
+Baixio, CE
+Caridade, CE
+Granjeiro, CE
+Nova Olinda, CE
+Pacujá, CE
+Varjota, CE
+Baliza, GO
+Aldeias Altas, MA
+Alto Alegre do Pindaré, MA
+Alto Parnaíba, MA
+Bacabeira, MA
+Barão de Grajaú, MA
+Belágua, MA
+Benedito Leite, MA
+Boa Vista do Gurupi, MA
+Brejo, MA
+Cajari, MA
+Governador Luiz Rocha, MA
+Governador Newton Bello, MA
+Humberto de Campos, MA
+Itaipava do Grajaú, MA
+Joselândia, MA
+Lima Campos, MA
+Luís Domingues, MA
+Magalhães de Almeida, MA
+Nova Iorque, MA
+Passagem Franca, MA
+Paulino Neves, MA
+Peri Mirim, MA
+Presidente Juscelino, MA
+Santana do Maranhão, MA
+São Benedito do Rio Preto, MA
+São Bernardo, MA
+São Domingos do Azeitão, MA
+São Francisco do Brejão, MA
+São João do Soter, MA
+Senador Alexandre Costa, MA
+Senador La Rocque, MA
+Sucupira do Riachão, MA
+Turilândia, MA
+Campo Azul, MG
+Congonhas do Norte, MG
+Felisburgo, MG
+Frei Lagonegro, MG
+Gonzaga, MG
+Ibiaí, MG
+Ladainha, MG
+Luislândia, MG
+Mamonas, MG
+Montalvânia, MG
+Patis, MG
+Ponto dos Volantes, MG
+Rio Pardo de Minas, MG
+Rio Vermelho, MG
+São João da Ponte, MG
+Serra Azul de Minas, MG
+Setubinha, MG
+Varzelândia, MG
+Santarém Novo, PA
+São Caetano de Odivelas, PA
+Terra Alta, PA
+Alcantil, PB
+Algodão de Jandaíra, PB
+Alhandra, PB
+Aparecida, PB
+Araçagi, PB
+Areial, PB
+Barra de Santa Rosa, PB
+Barra de Santana, PB
+Borborema, PB
+Brejo dos Santos, PB
+Capim, PB
+Cuité de Mamanguape, PB
+Curral Velho, PB
+Diamante, PB
+Dona Inês, PB
+Duas Estradas, PB
+Ibiara, PB
+Imaculada, PB
+Juarez Távora, PB
+Lastro, PB
+Mãe d'Água, PB
+Marcação, PB
+Mari, PB
+Mataraca, PB
+Matinhas, PB
+Maturéia, PB
+Montadas, PB
+Monte Horebe, PB
+Natuba, PB
+Nazarezinho, PB
+Olivedos, PB
+Parari, PB
+Passagem, PB
+Pedra Branca, PB
+Pedras de Fogo, PB
+Pedro Régis, PB
+Pilõezinhos, PB
+Quixabá, PB
+Riachão do Bacamarte, PB
+Riachão do Poço, PB
+Rio Tinto, PB
+Salgadinho, PB
+Santa Helena, PB
+São Domingos, PB
+São João do Tigre, PB
+São José de Caiana, PB
+São José do Bonfim, PB
+São José do Brejo do Cruz, PB
+São José dos Ramos, PB
+Sapé, PB
+Serraria, PB
+Sertãozinho, PB
+Sobrado, PB
+Tacima, PB
+Brejão, PE
+Brejinho, PE
+Canhotinho, PE
+Chã de Alegria, PE
+Correntes, PE
+Iati, PE
+Jataúba, PE
+Jatobá, PE
+Jucati, PE
+Lagoa dos Gatos, PE
+Mirandiba, PE
+Paranatama, PE
+Santa Cruz da Baixa Verde, PE
+São João, PE
+São José da Coroa Grande, PE
+Solidão, PE
+Xexéu, PE
+Alto Longá, PI
+Alvorada do Gurguéia, PI
+Angical do Piauí, PI
+Aroazes, PI
+Aroeiras do Itaim, PI
+Arraial, PI
+Barra D'Alcântara, PI
+Bela Vista do Piauí, PI
+Bocaina, PI
+Boqueirão do Piauí, PI
+Brejo do Piauí, PI
+Cajazeiras do Piauí, PI
+Campinas do Piauí, PI
+Campo Grande do Piauí, PI
+Canto do Buriti, PI
+Caridade do Piauí, PI
+Cocal de Telha, PI
+Cocal dos Alves, PI
+Coivaras, PI
+Colônia do Piauí, PI
+Coronel José Dias, PI
+Cristino Castro, PI
+Currais, PI
+Curral Novo do Piauí, PI
+Domingos Mourão, PI
+Elesbão Veloso, PI
+Floresta do Piauí, PI
+Francisco Ayres, PI
+Francisco Macedo, PI
+Geminiano, PI
+Isaías Coelho, PI
+Itaueira, PI
+Joaquim Pires, PI
+Juazeiro do Piauí, PI
+Lagoa Alegre, PI
+Lagoa do Piauí, PI
+Lagoinha do Piauí, PI
+Landri Sales, PI
+Morro do Chapéu do Piauí, PI
+Murici dos Portelas, PI
+Nazária, PI
+Nossa Senhora dos Remédios, PI
+Nova Santa Rita, PI
+Novo Oriente do Piauí, PI
+Olho D'Água do Piauí, PI
+Padre Marcos, PI
+Pajeú do Piauí, PI
+Palmeira do Piauí, PI
+Paquetá, PI
+Pau D'Arco do Piauí, PI
+Pedro Laurentino, PI
+Porto Alegre do Piauí, PI
+Queimada Nova, PI
+Santa Cruz dos Milagres, PI
+Santa Luz, PI
+Santana do Piauí, PI
+Santo Antônio dos Milagres, PI
+Santo Inácio do Piauí, PI
+São Braz do Piauí, PI
+São João da Fronteira, PI
+São João da Serra, PI
+São Miguel da Baixa Grande, PI
+Sebastião Leal, PI
+Socorro do Piauí, PI
+Tanque do Piauí, PI
+Várzea Branca, PI
+Várzea Grande, PI
+Wall Ferraz, PI
+Bom Jesus do Sul, PR
+Campina do Simão, PR
+Doutor Ulysses, PR
+Entre Rios do Oeste, PR
+Itaipulândia, PR
+Serranópolis do Iguaçu, PR
+Antônio Martins, RN
+Augusto Severo, RN
+Barcelona, RN
+Bento Fernandes, RN
+Caiçara do Norte, RN
+Caiçara do Rio do Vento, RN
+Carnaubais, RN
+Cerro Corá, RN
+Espírito Santo, RN
+Galinhos, RN
+Governador Dix-Sept Rosado, RN
+Japi, RN
+João Dias, RN
+Lajes Pintadas, RN
+Martins, RN
+Montanhas, RN
+Monte das Gameleiras, RN
+Passa e Fica, RN
+Pedro Velho, RN
+Pilões, RN
+Riacho da Cruz, RN
+Riachuelo, RN
+Rio do Fogo, RN
+São Bento do Trairí, RN
+São Rafael, RN
+Senador Elói de Souza, RN
+Serra de São Bento, RN
+Serrinha dos Pintos, RN
+Severiano Melo, RN
+Sítio Novo, RN
+Derrubadas, RS
+Novo Machado, RS
+Pedras Altas, RS
+Roque Gonzales, RS
+São Nicolau, RS
+Itapiranga, SC
+Santa Helena, SC
+Canindé de São Francisco, SE
+Gracho Cardoso, SE
+Riachão do Dantas, SE
+São Miguel do Aleixo, SE
+Abreulândia, TO
+Centenário, TO
+Conceição do Tocantins, TO
+Couto Magalhães, TO
+Dois Irmãos do Tocantins, TO
+Juarina, TO
+Mateiros, TO
+Monte do Carmo, TO
+Monte Santo do Tocantins, TO
+Nazaré, TO
+Nova Rosalândia, TO
+Pindorama do Tocantins, TO
+Porto Alegre do Tocantins, TO
+Praia Norte, TO
+Rio da Conceição, TO
+Santa Rosa do Tocantins, TO
+Santa Terezinha do Tocantins, TO
+São Miguel do Tocantins, TO
+Tocantínia, TO
+Tupiratins, TO
